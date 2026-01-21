@@ -46,7 +46,7 @@ The app follows the MVVM (Model-View-ViewModel) architecture pattern to ensure a
 ---
 
 ## 🏁 Getting Started
-1. Clone the repository ```bash git clone https://github.com/USERNAME/JobApplicationTracker.git ```
+1. Clone the repository ```git clone https://github.com/USERNAME/JobApplicationTracker.git```
 2. Open the project in Android Studio
 3. Run the app on an emulator or physical device
 
