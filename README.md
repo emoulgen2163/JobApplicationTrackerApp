@@ -20,7 +20,7 @@ Users can add, edit, delete, and filter job applications based on their current 
 - Jetpack Compose
 - MVVM Architecture
 - Room Database
-- StateFlow
+- Live Data
 - Material Design 3
 
 ---
