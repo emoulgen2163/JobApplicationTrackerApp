@@ -16,6 +16,7 @@ This project was built to solve that problem by providing a simple and offline-f
 - Track application status (Applied, Interview, Rejected, Offer)
 - Filter applications by status
 - Offline data storage using Room database
+- Dependency injection using Hilt
 - Clean and modern UI built with Jetpack Compose
 - MVVM architecture
 
@@ -24,6 +25,7 @@ This project was built to solve that problem by providing a simple and offline-f
 ## 🛠 Tech Stack
 - Kotlin
 - Jetpack Compose
+- Hilt
 - MVVM Architecture
 - Room Database
 - Live Data
