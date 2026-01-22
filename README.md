@@ -5,6 +5,12 @@ Users can add, edit, delete, and filter job applications based on their current 
 
 ---
 
+## 💡 Why this project?
+Job searching can quickly become overwhelming when tracking multiple applications across different companies.
+This project was built to solve that problem by providing a simple and offline-first Android solution.
+
+---
+
 ## 🚀 Features
 - Add, edit, and delete job applications
 - Track application status (Applied, Interview, Rejected, Offer)
